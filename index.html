@@ -760,6 +760,37 @@
         </div>
     </footer>
 
+    <!-- Insights Dashboard (Local Only) -->
+    <div id="insights-modal" class="fixed inset-0 z-[60] hidden">
+        <div class="absolute inset-0 bg-black/80 backdrop-blur-md" onclick="toggleInsights()"></div>
+        <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full max-w-2xl px-4">
+            <div class="glass rounded-3xl p-7 relative max-h-[80vh] overflow-y-auto">
+                <div class="flex items-center justify-between mb-6">
+                    <div>
+                        <h3 class="text-xl font-bold flex items-center gap-2">
+                            <i data-lucide="bar-chart-3" class="w-5 h-5 text-orange-500"></i> Local Insights
+                        </h3>
+                        <p class="text-[10px] text-zinc-500 mt-1 uppercase tracking-widest">Tracking clicks on this browser</p>
+                    </div>
+                    <button onclick="toggleInsights()"
+                        class="w-8 h-8 rounded-lg hover:bg-white/5 flex items-center justify-center"><i data-lucide="x"
+                            class="w-4 h-4 text-zinc-500"></i></button>
+                </div>
+
+                <div id="insights-content" class="space-y-6">
+                    <!-- Stats will be injected here -->
+                </div>
+
+                <div class="mt-8 pt-6 border-t border-white/5 flex items-center justify-between">
+                    <button onclick="clearAnalytics()"
+                        class="text-[10px] text-red-400 hover:text-red-300 transition-colors flex items-center gap-1.5"><i
+                            data-lucide="trash-2" class="w-3 h-3"></i> Clear Local Data</button>
+                    <p class="text-[10px] text-zinc-600">Press Alt + S to toggle this view anytime</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Exit Popup -->
     <div id="exit-popup" class="fixed inset-0 z-[60] hidden">
         <div class="absolute inset-0 bg-black/70 backdrop-blur-sm" onclick="closeExit()"></div>
@@ -1199,6 +1230,69 @@
             }
         });
         function closeExit() { document.getElementById('exit-popup').classList.add('hidden'); }
+
+        function toggleInsights() {
+            const modal = document.getElementById('insights-modal');
+            modal.classList.toggle('hidden');
+            if (!modal.classList.contains('hidden')) renderInsights();
+        }
+
+        function renderInsights() {
+            const clicks = JSON.parse(localStorage.getItem('dh_clicks') || '[]');
+            const container = document.getElementById('insights-content');
+
+            if (clicks.length === 0) {
+                container.innerHTML = '<div class="text-center py-10 text-zinc-500 text-sm">No click data recorded yet. Start clicking deals!</div>';
+                return;
+            }
+
+            const stats = {};
+            clicks.forEach(c => { stats[c.id] = (stats[c.id] || 0) + 1; });
+            const sorted = Object.entries(stats).sort((a, b) => b[1] - a[1]);
+
+            let html = `
+                <div class="grid grid-cols-3 gap-4 mb-4">
+                    <div class="glass p-3 rounded-xl border-orange-500/20">
+                        <div class="text-[10px] text-zinc-500 uppercase font-medium mb-1">Total Clicks</div>
+                        <div class="text-2xl font-bold text-white">${clicks.length}</div>
+                    </div>
+                </div>
+                <div class="space-y-2">
+                    <h4 class="text-xs font-semibold text-zinc-400 mb-3 uppercase tracking-wider">Top Performing Deals</h4>
+            `;
+
+            sorted.forEach(([id, count]) => {
+                const deal = DEALS_DB.find(d => String(d.id) === String(id)) || { title: `Unknown #${id}`, store: 'External' };
+                const percent = Math.round((count / clicks.length) * 100);
+                html += `
+                    <div class="glass p-3 rounded-xl flex items-center justify-between gap-4">
+                        <div class="flex-1 min-w-0">
+                            <h5 class="text-xs font-medium truncate">${deal.title}</h5>
+                            <p class="text-[10px] text-zinc-500">${deal.store}</p>
+                        </div>
+                        <div class="text-right shrink-0">
+                            <div class="text-sm font-bold text-orange-400">${count} <span class="text-[9px] font-normal text-zinc-600 ml-1">clicks</span></div>
+                            <div class="w-16 h-1 bg-white/5 rounded-full mt-1 overflow-hidden"><div class="h-full bg-orange-500" style="width: ${percent}%"></div></div>
+                        </div>
+                    </div>`;
+            });
+
+            html += '</div>';
+            container.innerHTML = html;
+            lucide.createIcons();
+        }
+
+        function clearAnalytics() {
+            if (confirm('Clear all local click data? This cannot be undone.')) {
+                localStorage.removeItem('dh_clicks');
+                renderInsights();
+                showToast('Analytics reset.', 'info');
+            }
+        }
+
+        document.addEventListener('keydown', e => {
+            if (e.altKey && e.key.toLowerCase() === 's') { e.preventDefault(); toggleInsights(); }
+        });
 
         /* ================================================================
            COUNTDOWN TIMER
