@@ -1,0 +1,10 @@
+{
+    "amazon_india": [
+        { "id": 2, "name": "Samsung Galaxy M35 5G (128GB)", "search_query": "Samsung Galaxy M35 5G 128GB", "affiliate_link": "https://amzn.to/4cdMu64" },
+        { "id": 13, "name": "Sony WF-1000XM5 Earbuds", "search_query": "Sony WF-1000XM5 Earbuds", "affiliate_link": "https://amzn.to/4sYi1jw" },
+        { "id": 39, "name": "Samsung Galaxy Buds FE", "search_query": "Samsung Galaxy Buds FE", "affiliate_link": "https://amzn.to/4dCn7NC" },
+        { "id": 49, "name": "boAt Airdopes 141 TWS Earbuds", "search_query": "boAt Airdopes 141 TWS Earbuds", "affiliate_link": "https://amzn.to/3Q2KcPM" },
+        { "id": 38, "name": "Logitech M331 Silent Wireless Mouse", "search_query": "Logitech M331 Silent Wireless Mouse", "affiliate_link": "https://amzn.to/4coLKv7" },
+        { "id": 34, "name": "Philips Hair Straightener (HP8302)", "search_query": "Philips Hair Straightener HP8302", "affiliate_link": "https://amzn.to/3OyXByD" }
+    ]
+}

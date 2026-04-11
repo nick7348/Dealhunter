@@ -1,0 +1,122 @@
+[
+    {
+        "id": 2,
+        "title": "Samsung Galaxy M06 5G Mobile (Sage Green, 6GB RAM, 128GB Storage) | MediaTek Dimensity 6300 | AnTuTu 623K+ | 12 5G Bands | 25W Fast Charging | 4 Gen OS Upgrades | 50MP Camera | Without Charger",
+        "store": "Amazon",
+        "storeKey": "amazon",
+        "category": "Auto-Updated",
+        "catKey": "general",
+        "img": "https://m.media-amazon.com/images/I/71evPv-TvmL._AC_UY654_QL65_.jpg",
+        "originalPrice": 15499.0,
+        "salePrice": 13499.0,
+        "discount": 12,
+        "rating": 4.1,
+        "ratings": 3330,
+        "badges": [
+            "Live Price",
+            "Verified"
+        ],
+        "affiliateLink": "https://amzn.to/4cdMu64",
+        "addedAt": 1775927862390
+    },
+    {
+        "id": 13,
+        "title": "Sony WF-1000XM5 Best Active Noise Cancelling Wireless Bluetooth Earbuds with Mic, TWS, Up to 36 Hours Battery Life - Black",
+        "store": "Amazon",
+        "storeKey": "amazon",
+        "category": "Auto-Updated",
+        "catKey": "general",
+        "img": "https://m.media-amazon.com/images/I/61GJAFdM9pL._AC_UY654_QL65_.jpg",
+        "originalPrice": 29990.0,
+        "salePrice": 21989.0,
+        "discount": 26,
+        "rating": 3.8,
+        "ratings": 5507,
+        "badges": [
+            "Live Price",
+            "Verified"
+        ],
+        "affiliateLink": "https://amzn.to/4sYi1jw",
+        "addedAt": 1775927865513
+    },
+    {
+        "id": 39,
+        "title": "Samsung Galaxy Buds Core (Black) Galaxy AI Enabled in-Ear TWS with ANC | Enriched Bass | 6 Mic Setup | IP54 | 35hrs Battery | Touch Controls",
+        "store": "Amazon",
+        "storeKey": "amazon",
+        "category": "Auto-Updated",
+        "catKey": "general",
+        "img": "https://m.media-amazon.com/images/I/61WRrNa6BIL._AC_UY654_QL65_.jpg",
+        "originalPrice": 9999.0,
+        "salePrice": 4399.0,
+        "discount": 56,
+        "rating": 4.0,
+        "ratings": 1941,
+        "badges": [
+            "Live Price",
+            "Verified"
+        ],
+        "affiliateLink": "https://amzn.to/4dCn7NC",
+        "addedAt": 1775927868632
+    },
+    {
+        "id": 49,
+        "title": "boAt Airdopes 141 Gen 2, 4 Mics ENx Tech, 48 Hrs Playback, Free Music Streaming, Fast Charge, Low Latency, IPX4, v5.4 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Active Black)",
+        "store": "Amazon",
+        "storeKey": "amazon",
+        "category": "Auto-Updated",
+        "catKey": "general",
+        "img": "https://m.media-amazon.com/images/I/71O+4zDSk-L._AC_UY654_QL65_.jpg",
+        "originalPrice": 3990.0,
+        "salePrice": 799.0,
+        "discount": 79,
+        "rating": 3.8,
+        "ratings": 88287,
+        "badges": [
+            "Live Price",
+            "Verified"
+        ],
+        "affiliateLink": "https://amzn.to/3Q2KcPM",
+        "addedAt": 1775927872317
+    },
+    {
+        "id": 38,
+        "title": "Logitech M331 Silent Plus Wireless Mouse, 2.4GHz with USB Nano Receiver, 1000 DPI Optical Tracking, 3 Buttons, 24 Month Battery Life, PC/Mac/Laptop - Black",
+        "store": "Amazon",
+        "storeKey": "amazon",
+        "category": "Auto-Updated",
+        "catKey": "general",
+        "img": "https://m.media-amazon.com/images/I/61qm452yy-L._AC_UY654_QL65_.jpg",
+        "originalPrice": 1645.0,
+        "salePrice": 1295.0,
+        "discount": 21,
+        "rating": 4.4,
+        "ratings": 15319,
+        "badges": [
+            "Live Price",
+            "Verified"
+        ],
+        "affiliateLink": "https://amzn.to/4coLKv7",
+        "addedAt": 1775927875481
+    },
+    {
+        "id": 34,
+        "title": "Philips India&#x27;s No.1 Hair Styling Brand Selfie Hair Straightener, Minimized Heat Damage,SilkPro Care, Ceramic Plates,Smooth Shiny Straight Hair, 210\u00b0C Temp, Salon like Result | For Indian Hair, HP8302",
+        "store": "Amazon",
+        "storeKey": "amazon",
+        "category": "Auto-Updated",
+        "catKey": "general",
+        "img": "https://m.media-amazon.com/images/I/51KpNo662AL._AC_UL960_QL65_.jpg",
+        "originalPrice": 1295.0,
+        "salePrice": 1099.0,
+        "discount": 15,
+        "rating": 4.2,
+        "ratings": 55923,
+        "badges": [
+            "Live Price",
+            "Verified"
+        ],
+        "affiliateLink": "https://amzn.to/3OyXByD",
+        "addedAt": 1775927879649
+    }
+]
