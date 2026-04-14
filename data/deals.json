@@ -21,23 +21,23 @@
     },
     {
         "id": 2,
-        "title": "Samsung Galaxy M06 5G Mobile (Blazing Black, 6GB RAM, 128GB Storage) | MediaTek Dimensity 6300 | AnTuTu 623K+ | 12 5G Bands | 25W Fast Charging | 4 Gen OS Upgrades | 50MP Camera | Without Charger",
+        "title": "Samsung Galaxy M06 5G Mobile (Blazing Black, 4GB RAM, 128GB Storage) | MediaTek Dimensity 6300 | AnTuTu 623K+ | 12 5G Bands | 25W Fast Charging | 4 Gen OS Upgrades | 50MP Camera | Without Charger",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Mobiles",
         "catKey": "mobiles",
         "img": "https://m.media-amazon.com/images/I/71iMTdPA34L._AC_UY654_QL65_.jpg",
-        "originalPrice": 15499.0,
-        "salePrice": 13999.0,
-        "discount": 9,
-        "rating": 4.1,
-        "ratings": 3362,
+        "originalPrice": 13999.0,
+        "salePrice": 12499.0,
+        "discount": 10,
+        "rating": 4.0,
+        "ratings": 2564,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1776153045878
+        "addedAt": 1776174476180
     },
     {
         "id": 3,
@@ -332,7 +332,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1776153047643
+        "addedAt": 1776174477795
     },
     {
         "id": 14,
@@ -441,8 +441,8 @@
         "catKey": "audio",
         "img": "https://m.media-amazon.com/images/I/61WRrNa6BIL._AC_UY654_QL65_.jpg",
         "originalPrice": 9999.0,
-        "salePrice": 4399.0,
-        "discount": 56,
+        "salePrice": 4599.0,
+        "discount": 54,
         "rating": 4.0,
         "ratings": 1963,
         "badges": [
@@ -450,7 +450,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1776153049175
+        "addedAt": 1776174479056
     },
     {
         "id": 47,
@@ -474,23 +474,23 @@
     },
     {
         "id": 49,
-        "title": "boAt Airdopes 141 Gen 2, 4 Mics ENx Tech, 48 Hrs Playback, Free Music Streaming, Fast Charge, Low Latency, IPX4, v5.4 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Active Black)",
+        "title": "boAt Airdopes 141 TWS Earbuds",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Audio",
         "catKey": "audio",
-        "img": "https://m.media-amazon.com/images/I/71O+4zDSk-L._AC_UY654_QL65_.jpg",
-        "originalPrice": 3990.0,
-        "salePrice": 899.0,
-        "discount": 77,
-        "rating": 3.8,
-        "ratings": 88314,
+        "img": "boat-airdopes-141",
+        "originalPrice": 4490,
+        "salePrice": 1099,
+        "discount": 76,
+        "rating": 4.1,
+        "ratings": 345000,
         "badges": [
-            "Live Price",
-            "Verified"
+            "COD",
+            "Best seller"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1776153050794
+        "addedAt": 1775547862390
     },
     {
         "id": 18,
@@ -805,23 +805,22 @@
     },
     {
         "id": 38,
-        "title": "Logitech M331 Silent Plus Wireless Mouse, 2.4GHz with USB Nano Receiver, 1000 DPI Optical Tracking, 3 Buttons, 24 Month Battery Life, PC/Mac/Laptop - Black",
+        "title": "Logitech M331 Silent Wireless Mouse",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Appliances",
         "catKey": "appliances",
-        "img": "https://m.media-amazon.com/images/I/61qm452yy-L._AC_UY654_QL65_.jpg",
-        "originalPrice": 1645.0,
-        "salePrice": 1150.0,
-        "discount": 30,
+        "img": "logitech-m331-silent",
+        "originalPrice": 1495,
+        "salePrice": 695,
+        "discount": 54,
         "rating": 4.4,
-        "ratings": 15323,
+        "ratings": 67000,
         "badges": [
-            "Live Price",
-            "Verified"
+            "Free delivery"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1776153052436
+        "addedAt": 1775377862390
     },
     {
         "id": 48,
@@ -941,23 +940,23 @@
     },
     {
         "id": 34,
-        "title": "Philips India&#x27;s No.1 Hair Styling Brand Selfie Hair Straightener, Minimized Heat Damage,SilkPro Care, Ceramic Plates,Smooth Shiny Straight Hair, 210°C Temp, Salon like Result | For Indian Hair, HP8302",
+        "title": "Philips Hair Straightener (HP8302)",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Beauty",
         "catKey": "beauty",
-        "img": "https://m.media-amazon.com/images/I/51KpNo662AL._AC_UL960_QL65_.jpg",
-        "originalPrice": 1295.0,
-        "salePrice": 1099.0,
-        "discount": 15,
-        "rating": 4.2,
-        "ratings": 55948,
+        "img": "philips-straightener",
+        "originalPrice": 2795,
+        "salePrice": 1395,
+        "discount": 50,
+        "rating": 4.3,
+        "ratings": 34000,
         "badges": [
-            "Live Price",
-            "Verified"
+            "COD",
+            "Free delivery"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1776153054283
+        "addedAt": 1775307862390
     },
     {
         "id": 35,
