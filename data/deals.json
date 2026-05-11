@@ -21,23 +21,23 @@
     },
     {
         "id": 2,
-        "title": "Samsung Galaxy M35 5G (128GB)",
+        "title": "Samsung Galaxy M56 5G Mobile (Black, 8GB RAM, 128GB Storage)| Segment Slimmest | Gorilla Glass Victus+ | 10 Bit HDR Video | 50MP Camera | AI | Vapour Cooling Chamber | Lag-free Gaming| Without Charger",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Mobiles",
         "catKey": "mobiles",
-        "img": "samsung-m35-5g",
-        "originalPrice": 19999,
-        "salePrice": 13499,
-        "discount": 33,
-        "rating": 4.2,
-        "ratings": 18740,
+        "img": "https://m.media-amazon.com/images/I/71cezbo2HNL._AC_UY654_QL65_.jpg",
+        "originalPrice": 33999.0,
+        "salePrice": 21998.0,
+        "discount": 35,
+        "rating": 4.3,
+        "ratings": 1553,
         "badges": [
-            "SBI 10% off",
-            "COD"
+            "Live Price",
+            "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1775827762390
+        "addedAt": 1778529054847
     },
     {
         "id": 3,
@@ -316,23 +316,23 @@
     },
     {
         "id": 13,
-        "title": "Sony WF-1000XM5 Earbuds",
+        "title": "Sony WF-1000XM5 Best Active Noise Cancelling Wireless Bluetooth Earbuds with Mic, TWS, Up to 36 Hours Battery Life - Black",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Audio",
         "catKey": "audio",
-        "img": "sony-wf1000xm5",
-        "originalPrice": 29990,
-        "salePrice": 14990,
-        "discount": 50,
-        "rating": 4.7,
-        "ratings": 8234,
+        "img": "https://m.media-amazon.com/images/I/61GJAFdM9pL._AC_UY654_QL65_.jpg",
+        "originalPrice": 29990.0,
+        "salePrice": 19989.0,
+        "discount": 33,
+        "rating": 3.9,
+        "ratings": 5577,
         "badges": [
-            "COD",
-            "Limited time"
+            "Live Price",
+            "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1775627862390
+        "addedAt": 1778529056269
     },
     {
         "id": 14,
@@ -434,22 +434,23 @@
     },
     {
         "id": 39,
-        "title": "Samsung Galaxy Buds FE",
+        "title": "Samsung Galaxy Buds Core (Black) Galaxy AI Enabled in-Ear TWS with ANC | Enriched Bass | 6 Mic Setup | IP54 | 35hrs Battery | Touch Controls",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Audio",
         "catKey": "audio",
-        "img": "samsung-buds-fe",
-        "originalPrice": 9999,
-        "salePrice": 3999,
-        "discount": 60,
-        "rating": 4.3,
-        "ratings": 21000,
+        "img": "https://m.media-amazon.com/images/I/61WRrNa6BIL._AC_UY654_QL65_.jpg",
+        "originalPrice": 9999.0,
+        "salePrice": 4199.0,
+        "discount": 58,
+        "rating": 4.0,
+        "ratings": 2215,
         "badges": [
-            "SBI 10% off"
+            "Live Price",
+            "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1775567862390
+        "addedAt": 1778529057791
     },
     {
         "id": 47,
@@ -473,23 +474,23 @@
     },
     {
         "id": 49,
-        "title": "boAt Airdopes 141 TWS Earbuds",
+        "title": "boAt Airdopes 141 Gen 2, 4 Mics ENx Tech, 48 Hrs Playback, Free Music Streaming, Fast Charge, Low Latency, IPX4, v5.4 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Active Black)",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Audio",
         "catKey": "audio",
-        "img": "boat-airdopes-141",
-        "originalPrice": 4490,
-        "salePrice": 1099,
-        "discount": 76,
-        "rating": 4.1,
-        "ratings": 345000,
+        "img": "https://m.media-amazon.com/images/I/71O+4zDSk-L._AC_UY654_QL65_.jpg",
+        "originalPrice": 3990.0,
+        "salePrice": 798.0,
+        "discount": 80,
+        "rating": 3.9,
+        "ratings": 88701,
         "badges": [
-            "COD",
-            "Best seller"
+            "Live Price",
+            "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1775547862390
+        "addedAt": 1778529059853
     },
     {
         "id": 18,
@@ -804,22 +805,23 @@
     },
     {
         "id": 38,
-        "title": "Logitech M331 Silent Wireless Mouse",
+        "title": "Logitech M331 Silent Plus Wireless Mouse, 2.4GHz with USB Nano Receiver, 1000 DPI Optical Tracking, 3 Buttons, 24 Month Battery Life, PC/Mac/Laptop - Black",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Appliances",
         "catKey": "appliances",
-        "img": "logitech-m331-silent",
-        "originalPrice": 1495,
-        "salePrice": 695,
-        "discount": 54,
+        "img": "https://m.media-amazon.com/images/I/61qm452yy-L._AC_UY654_QL65_.jpg",
+        "originalPrice": 1645.0,
+        "salePrice": 1295.0,
+        "discount": 21,
         "rating": 4.4,
-        "ratings": 67000,
+        "ratings": 15355,
         "badges": [
-            "Free delivery"
+            "Live Price",
+            "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1775377862390
+        "addedAt": 1778529062021
     },
     {
         "id": 48,
@@ -939,23 +941,23 @@
     },
     {
         "id": 34,
-        "title": "Philips Hair Straightener (HP8302)",
+        "title": "Philips India&#x27;s No.1 Hair Styling Brand Selfie Hair Straightener, Minimized Heat Damage,SilkPro Care, Ceramic Plates,Smooth Shiny Straight Hair, 210°C Temp, Salon like Result | For Indian Hair, HP8302",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Beauty",
         "catKey": "beauty",
-        "img": "philips-straightener",
-        "originalPrice": 2795,
-        "salePrice": 1395,
-        "discount": 50,
-        "rating": 4.3,
-        "ratings": 34000,
+        "img": "https://m.media-amazon.com/images/I/51KpNo662AL._AC_UL960_QL65_.jpg",
+        "originalPrice": 1295.0,
+        "salePrice": 979.0,
+        "discount": 24,
+        "rating": 4.2,
+        "ratings": 56321,
         "badges": [
-            "COD",
-            "Free delivery"
+            "Live Price",
+            "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1775307862390
+        "addedAt": 1778529063735
     },
     {
         "id": 35,
