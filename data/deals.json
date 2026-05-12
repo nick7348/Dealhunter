@@ -21,12 +21,12 @@
     },
     {
         "id": 2,
-        "title": "Samsung Galaxy M06 5G Mobile (Sage Green, 4GB RAM, 128GB Storage) | MediaTek Dimensity 6300 | AnTuTu 623K+ | 12 5G Bands | 25W Fast Charging | 4 Gen OS Upgrades | 50MP Camera | Without Charger",
+        "title": "Samsung Galaxy M06 5G Mobile (Blazing Black, 4GB RAM, 128GB Storage) | MediaTek Dimensity 6300 | AnTuTu 623K+ | 12 5G Bands | 25W Fast Charging | 4 Gen OS Upgrades | 50MP Camera | Without Charger",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Mobiles",
         "catKey": "mobiles",
-        "img": "https://m.media-amazon.com/images/I/71vibvcdAlL._AC_UY654_QL65_.jpg",
+        "img": "https://m.media-amazon.com/images/I/71K8ghTEGlL._AC_UY654_QL65_.jpg",
         "originalPrice": 16999.0,
         "salePrice": 11499.0,
         "discount": 32,
@@ -37,7 +37,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1778575418828
+        "addedAt": 1778596221073
     },
     {
         "id": 3,
@@ -332,7 +332,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1778575420526
+        "addedAt": 1778596222648
     },
     {
         "id": 14,
@@ -444,13 +444,13 @@
         "salePrice": 4199.0,
         "discount": 58,
         "rating": 4.0,
-        "ratings": 2216,
+        "ratings": 2223,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1778575422315
+        "addedAt": 1778596224306
     },
     {
         "id": 47,
@@ -484,13 +484,13 @@
         "salePrice": 798.0,
         "discount": 80,
         "rating": 3.9,
-        "ratings": 88702,
+        "ratings": 88720,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1778575424357
+        "addedAt": 1778596225821
     },
     {
         "id": 18,
@@ -815,13 +815,13 @@
         "salePrice": 1295.0,
         "discount": 21,
         "rating": 4.4,
-        "ratings": 15355,
+        "ratings": 15356,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1778575426002
+        "addedAt": 1778596227362
     },
     {
         "id": 48,
@@ -951,13 +951,13 @@
         "salePrice": 979.0,
         "discount": 24,
         "rating": 4.2,
-        "ratings": 56317,
+        "ratings": 56323,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1778575427979
+        "addedAt": 1778596229130
     },
     {
         "id": 35,
