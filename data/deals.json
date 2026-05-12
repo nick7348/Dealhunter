@@ -21,23 +21,23 @@
     },
     {
         "id": 2,
-        "title": "Samsung Galaxy M56 5G Mobile (Black, 8GB RAM, 128GB Storage)| Segment Slimmest | Gorilla Glass Victus+ | 10 Bit HDR Video | 50MP Camera | AI | Vapour Cooling Chamber | Lag-free Gaming| Without Charger",
+        "title": "Samsung Galaxy M06 5G Mobile (Sage Green, 4GB RAM, 128GB Storage) | MediaTek Dimensity 6300 | AnTuTu 623K+ | 12 5G Bands | 25W Fast Charging | 4 Gen OS Upgrades | 50MP Camera | Without Charger",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Mobiles",
         "catKey": "mobiles",
-        "img": "https://m.media-amazon.com/images/I/71cezbo2HNL._AC_UY654_QL65_.jpg",
-        "originalPrice": 33999.0,
-        "salePrice": 21998.0,
-        "discount": 35,
-        "rating": 4.3,
-        "ratings": 1553,
+        "img": "https://m.media-amazon.com/images/I/71vibvcdAlL._AC_UY654_QL65_.jpg",
+        "originalPrice": 16999.0,
+        "salePrice": 11499.0,
+        "discount": 32,
+        "rating": 4.2,
+        "ratings": 18740,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1778556625247
+        "addedAt": 1778575418828
     },
     {
         "id": 3,
@@ -326,13 +326,13 @@
         "salePrice": 19989.0,
         "discount": 33,
         "rating": 3.9,
-        "ratings": 5577,
+        "ratings": 5578,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1778556626863
+        "addedAt": 1778575420526
     },
     {
         "id": 14,
@@ -450,7 +450,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1778556628516
+        "addedAt": 1778575422315
     },
     {
         "id": 47,
@@ -484,13 +484,13 @@
         "salePrice": 798.0,
         "discount": 80,
         "rating": 3.9,
-        "ratings": 88699,
+        "ratings": 88702,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1778556630151
+        "addedAt": 1778575424357
     },
     {
         "id": 18,
@@ -821,7 +821,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1778556631823
+        "addedAt": 1778575426002
     },
     {
         "id": 48,
@@ -957,7 +957,7 @@
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1778556633992
+        "addedAt": 1778575427979
     },
     {
         "id": 35,
