@@ -21,23 +21,23 @@
     },
     {
         "id": 2,
-        "title": "Samsung Galaxy M06 5G Mobile (Sage Green, 4GB RAM, 128GB Storage) | MediaTek Dimensity 6300 | AnTuTu 623K+ | 12 5G Bands | 25W Fast Charging | 4 Gen OS Upgrades | 50MP Camera | Without Charger",
+        "title": "Samsung Galaxy M35 5G (128GB)",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Mobiles",
         "catKey": "mobiles",
-        "img": "https://m.media-amazon.com/images/I/71vibvcdAlL._AC_UY654_QL65_.jpg",
-        "originalPrice": 16999.0,
-        "salePrice": 13999.0,
-        "discount": 17,
+        "img": "samsung-m35-5g",
+        "originalPrice": 19999,
+        "salePrice": 13499,
+        "discount": 33,
         "rating": 4.2,
         "ratings": 18740,
         "badges": [
-            "Live Price",
-            "Verified"
+            "SBI 10% off",
+            "COD"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1778874097599
+        "addedAt": 1775827762390
     },
     {
         "id": 3,
@@ -316,23 +316,23 @@
     },
     {
         "id": 13,
-        "title": "Sony WF-1000XM5 Best Active Noise Cancelling Wireless Bluetooth Earbuds with Mic, TWS, Up to 36 Hours Battery Life - Black",
+        "title": "Sony WF-1000XM5 Earbuds",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Audio",
         "catKey": "audio",
-        "img": "https://m.media-amazon.com/images/I/61GJAFdM9pL._AC_UY654_QL65_.jpg",
-        "originalPrice": 29990.0,
-        "salePrice": 19989.0,
-        "discount": 33,
-        "rating": 3.9,
-        "ratings": 5583,
+        "img": "sony-wf1000xm5",
+        "originalPrice": 29990,
+        "salePrice": 14990,
+        "discount": 50,
+        "rating": 4.7,
+        "ratings": 8234,
         "badges": [
-            "Live Price",
-            "Verified"
+            "COD",
+            "Limited time"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1778874099124
+        "addedAt": 1775627862390
     },
     {
         "id": 14,
@@ -434,23 +434,22 @@
     },
     {
         "id": 39,
-        "title": "Samsung Galaxy Buds Core (Black) Galaxy AI Enabled in-Ear TWS with ANC | Enriched Bass | 6 Mic Setup | IP54 | 35hrs Battery | Touch Controls",
+        "title": "Samsung Galaxy Buds FE",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Audio",
         "catKey": "audio",
-        "img": "https://m.media-amazon.com/images/I/61WRrNa6BIL._AC_UY654_QL65_.jpg",
-        "originalPrice": 9999.0,
-        "salePrice": 4199.0,
-        "discount": 58,
-        "rating": 4.0,
-        "ratings": 2250,
+        "img": "samsung-buds-fe",
+        "originalPrice": 9999,
+        "salePrice": 3999,
+        "discount": 60,
+        "rating": 4.3,
+        "ratings": 21000,
         "badges": [
-            "Live Price",
-            "Verified"
+            "SBI 10% off"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1778874101911
+        "addedAt": 1775567862390
     },
     {
         "id": 47,
@@ -474,23 +473,23 @@
     },
     {
         "id": 49,
-        "title": "boAt Airdopes 141 Gen 2, 4 Mics ENx Tech, 48 Hrs Playback, Free Music Streaming, Fast Charge, Low Latency, IPX4, v5.4 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Active Black)",
+        "title": "boAt Airdopes 141 TWS Earbuds",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Audio",
         "catKey": "audio",
-        "img": "https://m.media-amazon.com/images/I/71O+4zDSk-L._AC_UY654_QL65_.jpg",
-        "originalPrice": 3990.0,
-        "salePrice": 878.9,
-        "discount": 77,
-        "rating": 3.9,
-        "ratings": 88791,
+        "img": "boat-airdopes-141",
+        "originalPrice": 4490,
+        "salePrice": 1099,
+        "discount": 76,
+        "rating": 4.1,
+        "ratings": 345000,
         "badges": [
-            "Live Price",
-            "Verified"
+            "COD",
+            "Best seller"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1778874103498
+        "addedAt": 1775547862390
     },
     {
         "id": 18,
