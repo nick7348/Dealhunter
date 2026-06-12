@@ -31,13 +31,13 @@
         "salePrice": 23499.0,
         "discount": 30,
         "rating": 4.3,
-        "ratings": 2049,
+        "ratings": 2054,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1781209474118
+        "addedAt": 1781237503359
     },
     {
         "id": 3,
@@ -332,7 +332,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1781209475858
+        "addedAt": 1781237505334
     },
     {
         "id": 14,
@@ -450,7 +450,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1781209477478
+        "addedAt": 1781237507136
     },
     {
         "id": 47,
@@ -481,16 +481,16 @@
         "catKey": "audio",
         "img": "https://m.media-amazon.com/images/I/71O+4zDSk-L._AC_UY654_QL65_.jpg",
         "originalPrice": 3990.0,
-        "salePrice": 1118.88,
-        "discount": 71,
+        "salePrice": 999.0,
+        "discount": 74,
         "rating": 3.9,
-        "ratings": 89592,
+        "ratings": 89594,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1781209479230
+        "addedAt": 1781237509413
     },
     {
         "id": 18,
@@ -821,7 +821,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1781209481181
+        "addedAt": 1781237511557
     },
     {
         "id": 48,
@@ -951,13 +951,13 @@
         "salePrice": 957.0,
         "discount": 40,
         "rating": 4.2,
-        "ratings": 56648,
+        "ratings": 56649,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1781209483304
+        "addedAt": 1781237514879
     },
     {
         "id": 35,
