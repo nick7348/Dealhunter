@@ -31,13 +31,13 @@
         "salePrice": 23499.0,
         "discount": 30,
         "rating": 4.3,
-        "ratings": 2072,
+        "ratings": 2087,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1781342356290
+        "addedAt": 1781359423208
     },
     {
         "id": 3,
@@ -326,13 +326,13 @@
         "salePrice": 21989.0,
         "discount": 26,
         "rating": 3.9,
-        "ratings": 5637,
+        "ratings": 5638,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1781342357808
+        "addedAt": 1781359424835
     },
     {
         "id": 14,
@@ -444,13 +444,13 @@
         "salePrice": 4399.0,
         "discount": 56,
         "rating": 4.0,
-        "ratings": 2517,
+        "ratings": 2523,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1781342359248
+        "addedAt": 1781359426298
     },
     {
         "id": 47,
@@ -484,13 +484,13 @@
         "salePrice": 999.0,
         "discount": 74,
         "rating": 3.9,
-        "ratings": 89631,
+        "ratings": 89656,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1781342360887
+        "addedAt": 1781359427838
     },
     {
         "id": 18,
@@ -815,13 +815,13 @@
         "salePrice": 1295.0,
         "discount": 21,
         "rating": 4.4,
-        "ratings": 15379,
+        "ratings": 15383,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1781342362262
+        "addedAt": 1781359429860
     },
     {
         "id": 48,
@@ -948,16 +948,16 @@
         "catKey": "beauty",
         "img": "https://m.media-amazon.com/images/I/51KpNo662AL._AC_UL960_QL65_.jpg",
         "originalPrice": 1595.0,
-        "salePrice": 957.0,
-        "discount": 40,
+        "salePrice": 998.0,
+        "discount": 37,
         "rating": 4.2,
-        "ratings": 56667,
+        "ratings": 56683,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1781342363988
+        "addedAt": 1781359431502
     },
     {
         "id": 35,
