@@ -31,13 +31,13 @@
         "salePrice": 23499.0,
         "discount": 30,
         "rating": 4.3,
-        "ratings": 2088,
+        "ratings": 2090,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1781379562162
+        "addedAt": 1781410687647
     },
     {
         "id": 3,
@@ -332,7 +332,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1781379563683
+        "addedAt": 1781410689313
     },
     {
         "id": 14,
@@ -450,7 +450,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1781379565119
+        "addedAt": 1781410690900
     },
     {
         "id": 47,
@@ -484,13 +484,13 @@
         "salePrice": 999.0,
         "discount": 74,
         "rating": 3.9,
-        "ratings": 89659,
+        "ratings": 89662,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1781379566947
+        "addedAt": 1781410692620
     },
     {
         "id": 18,
@@ -815,13 +815,13 @@
         "salePrice": 1295.0,
         "discount": 21,
         "rating": 4.4,
-        "ratings": 15382,
+        "ratings": 15383,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1781379568544
+        "addedAt": 1781410694218
     },
     {
         "id": 48,
@@ -948,8 +948,8 @@
         "catKey": "beauty",
         "img": "https://m.media-amazon.com/images/I/51KpNo662AL._AC_UL960_QL65_.jpg",
         "originalPrice": 1595.0,
-        "salePrice": 998.0,
-        "discount": 37,
+        "salePrice": 988.0,
+        "discount": 38,
         "rating": 4.2,
         "ratings": 56684,
         "badges": [
@@ -957,7 +957,7 @@
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1781379570309
+        "addedAt": 1781410696214
     },
     {
         "id": 35,
