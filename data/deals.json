@@ -31,13 +31,13 @@
         "salePrice": 23499.0,
         "discount": 30,
         "rating": 4.3,
-        "ratings": 2100,
+        "ratings": 2101,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1781498465383
+        "addedAt": 1781525978669
     },
     {
         "id": 3,
@@ -326,13 +326,13 @@
         "salePrice": 21989.0,
         "discount": 26,
         "rating": 3.9,
-        "ratings": 5643,
+        "ratings": 5644,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1781498467249
+        "addedAt": 1781525980358
     },
     {
         "id": 14,
@@ -444,13 +444,13 @@
         "salePrice": 4399.0,
         "discount": 56,
         "rating": 4.0,
-        "ratings": 2533,
+        "ratings": 2534,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1781498468770
+        "addedAt": 1781525981621
     },
     {
         "id": 47,
@@ -484,13 +484,13 @@
         "salePrice": 999.0,
         "discount": 74,
         "rating": 3.9,
-        "ratings": 89689,
+        "ratings": 89693,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1781498470209
+        "addedAt": 1781525982930
     },
     {
         "id": 18,
@@ -821,7 +821,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1781498471827
+        "addedAt": 1781525984410
     },
     {
         "id": 48,
@@ -951,13 +951,13 @@
         "salePrice": 988.0,
         "discount": 38,
         "rating": 4.2,
-        "ratings": 56695,
+        "ratings": 56696,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1781498473828
+        "addedAt": 1781525986134
     },
     {
         "id": 35,
