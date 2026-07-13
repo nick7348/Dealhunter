@@ -31,13 +31,13 @@
         "salePrice": 23499.0,
         "discount": 30,
         "rating": 4.3,
-        "ratings": 2466,
+        "ratings": 2467,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1783911411003
+        "addedAt": 1783935033312
     },
     {
         "id": 3,
@@ -332,7 +332,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1783911412495
+        "addedAt": 1783935034855
     },
     {
         "id": 14,
@@ -444,13 +444,13 @@
         "salePrice": 4199.0,
         "discount": 58,
         "rating": 4.0,
-        "ratings": 2840,
+        "ratings": 2842,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1783911413942
+        "addedAt": 1783935036323
     },
     {
         "id": 47,
@@ -474,23 +474,23 @@
     },
     {
         "id": 49,
-        "title": "boAt Airdopes 141/8, Low Latency, ENx Tech, 42HRS Battery, Fast Charge, Stream Ad Free Music via App Support, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Bold Black)",
+        "title": "boAt Airdopes 141 TWS Earbuds",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Audio",
         "catKey": "audio",
-        "img": "https://m.media-amazon.com/images/I/71RFdy6y6LL._AC_UY654_QL65_.jpg",
-        "originalPrice": 4490.0,
-        "salePrice": 1399.0,
-        "discount": 68,
-        "rating": 3.9,
-        "ratings": 89605,
+        "img": "boat-airdopes-141",
+        "originalPrice": 4490,
+        "salePrice": 1099,
+        "discount": 76,
+        "rating": 4.1,
+        "ratings": 345000,
         "badges": [
-            "Live Price",
-            "Verified"
+            "COD",
+            "Best seller"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1783911417453
+        "addedAt": 1775547862390
     },
     {
         "id": 18,
@@ -815,13 +815,13 @@
         "salePrice": 1295.0,
         "discount": 21,
         "rating": 4.4,
-        "ratings": 15403,
+        "ratings": 15404,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1783911419139
+        "addedAt": 1783935039550
     },
     {
         "id": 48,
@@ -957,7 +957,7 @@
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1783911420867
+        "addedAt": 1783935041589
     },
     {
         "id": 35,
