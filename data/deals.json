@@ -31,13 +31,13 @@
         "salePrice": 23499.0,
         "discount": 30,
         "rating": 4.3,
-        "ratings": 2467,
+        "ratings": 2478,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1783935033312
+        "addedAt": 1783953476316
     },
     {
         "id": 3,
@@ -326,13 +326,13 @@
         "salePrice": 24990.0,
         "discount": 16,
         "rating": 3.9,
-        "ratings": 5716,
+        "ratings": 5718,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1783935034855
+        "addedAt": 1783953478049
     },
     {
         "id": 14,
@@ -444,13 +444,13 @@
         "salePrice": 4199.0,
         "discount": 58,
         "rating": 4.0,
-        "ratings": 2842,
+        "ratings": 2845,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1783935036323
+        "addedAt": 1783953479775
     },
     {
         "id": 47,
@@ -812,8 +812,8 @@
         "catKey": "appliances",
         "img": "https://m.media-amazon.com/images/I/61qm452yy-L._AC_UY654_QL65_.jpg",
         "originalPrice": 1645.0,
-        "salePrice": 1295.0,
-        "discount": 21,
+        "salePrice": 1395.0,
+        "discount": 15,
         "rating": 4.4,
         "ratings": 15404,
         "badges": [
@@ -821,7 +821,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1783935039550
+        "addedAt": 1783953484112
     },
     {
         "id": 48,
@@ -951,13 +951,13 @@
         "salePrice": 759.0,
         "discount": 49,
         "rating": 4.2,
-        "ratings": 57014,
+        "ratings": 57022,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1783935041589
+        "addedAt": 1783953486350
     },
     {
         "id": 35,
