@@ -21,23 +21,23 @@
     },
     {
         "id": 2,
-        "title": "Samsung Galaxy M36 5G Mobile (Velvet Black, 6GB RAM, 128GB Storage) | Google Gemini| Gorilla Glass Victus+ | 7.7mm | AI Enhanced 50MP OIS Triple Camera| Nightography| Lag-free Gaming | Without Charger",
+        "title": "Samsung Galaxy M56 5G Mobile (Black, 8GB RAM, 128GB Storage)| Segment Slimmest | Gorilla Glass Victus+ | 10 Bit HDR Video | 50MP Camera | AI | Vapour Cooling Chamber | Lag-free Gaming| Without Charger",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Mobiles",
         "catKey": "mobiles",
-        "img": "https://m.media-amazon.com/images/I/71M0xLXh+4L._AC_UY654_QL65_.jpg",
-        "originalPrice": 25499.0,
-        "salePrice": 19999.0,
-        "discount": 21,
-        "rating": 4.1,
-        "ratings": 2982,
+        "img": "https://m.media-amazon.com/images/I/71cezbo2HNL._AC_UY654_QL65_.jpg",
+        "originalPrice": 33999.0,
+        "salePrice": 23499.0,
+        "discount": 30,
+        "rating": 4.3,
+        "ratings": 2466,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1783883275587
+        "addedAt": 1783911411003
     },
     {
         "id": 3,
@@ -323,16 +323,16 @@
         "catKey": "audio",
         "img": "https://m.media-amazon.com/images/I/61GJAFdM9pL._AC_UY654_QL65_.jpg",
         "originalPrice": 29990.0,
-        "salePrice": 17990.0,
-        "discount": 40,
+        "salePrice": 24990.0,
+        "discount": 16,
         "rating": 3.9,
-        "ratings": 5715,
+        "ratings": 5716,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1783883277229
+        "addedAt": 1783911412495
     },
     {
         "id": 14,
@@ -450,7 +450,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1783883278872
+        "addedAt": 1783911413942
     },
     {
         "id": 47,
@@ -474,23 +474,23 @@
     },
     {
         "id": 49,
-        "title": "boAt Airdopes 141 TWS Earbuds",
+        "title": "boAt Airdopes 141/8, Low Latency, ENx Tech, 42HRS Battery, Fast Charge, Stream Ad Free Music via App Support, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Bold Black)",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Audio",
         "catKey": "audio",
-        "img": "boat-airdopes-141",
-        "originalPrice": 4490,
-        "salePrice": 1099,
-        "discount": 76,
-        "rating": 4.1,
-        "ratings": 345000,
+        "img": "https://m.media-amazon.com/images/I/71RFdy6y6LL._AC_UY654_QL65_.jpg",
+        "originalPrice": 4490.0,
+        "salePrice": 1399.0,
+        "discount": 68,
+        "rating": 3.9,
+        "ratings": 89605,
         "badges": [
-            "COD",
-            "Best seller"
+            "Live Price",
+            "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1775547862390
+        "addedAt": 1783911417453
     },
     {
         "id": 18,
@@ -821,7 +821,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1783883282084
+        "addedAt": 1783911419139
     },
     {
         "id": 48,
@@ -951,13 +951,13 @@
         "salePrice": 759.0,
         "discount": 49,
         "rating": 4.2,
-        "ratings": 57012,
+        "ratings": 57014,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1783883284038
+        "addedAt": 1783911420867
     },
     {
         "id": 35,
