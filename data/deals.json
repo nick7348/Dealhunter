@@ -28,16 +28,16 @@
         "catKey": "mobiles",
         "img": "https://m.media-amazon.com/images/I/71cezbo2HNL._AC_UY654_QL65_.jpg",
         "originalPrice": 33999.0,
-        "salePrice": 23499.0,
-        "discount": 30,
+        "salePrice": 25999.0,
+        "discount": 23,
         "rating": 4.3,
-        "ratings": 2480,
+        "ratings": 2491,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1783996685780
+        "addedAt": 1784016519908
     },
     {
         "id": 3,
@@ -326,13 +326,13 @@
         "salePrice": 24990.0,
         "discount": 16,
         "rating": 3.9,
-        "ratings": 5718,
+        "ratings": 5722,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1783996687281
+        "addedAt": 1784016521836
     },
     {
         "id": 14,
@@ -444,13 +444,13 @@
         "salePrice": 4199.0,
         "discount": 58,
         "rating": 4.0,
-        "ratings": 2846,
+        "ratings": 2853,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1783996688922
+        "addedAt": 1784016523381
     },
     {
         "id": 47,
@@ -474,23 +474,23 @@
     },
     {
         "id": 49,
-        "title": "boAt Airdopes 141 TWS Earbuds",
+        "title": "boAt Airdopes 141 Gen 2, 4 Mics ENx Tech, 48 Hrs Playback, Free Music Streaming, Fast Charge, Low Latency, IPX4, v5.4 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Active Black)",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Audio",
         "catKey": "audio",
-        "img": "boat-airdopes-141",
-        "originalPrice": 4490,
-        "salePrice": 1099,
-        "discount": 76,
-        "rating": 4.1,
-        "ratings": 345000,
+        "img": "https://m.media-amazon.com/images/I/71O+4zDSk-L._AC_UY654_QL65_.jpg",
+        "originalPrice": 3990.0,
+        "salePrice": 1099.0,
+        "discount": 72,
+        "rating": 3.9,
+        "ratings": 89669,
         "badges": [
-            "COD",
-            "Best seller"
+            "Live Price",
+            "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1775547862390
+        "addedAt": 1784016524943
     },
     {
         "id": 18,
@@ -815,13 +815,13 @@
         "salePrice": 1395.0,
         "discount": 15,
         "rating": 4.4,
-        "ratings": 15404,
+        "ratings": 15407,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1783996691769
+        "addedAt": 1784016527808
     },
     {
         "id": 48,
@@ -948,16 +948,16 @@
         "catKey": "beauty",
         "img": "https://m.media-amazon.com/images/I/51KpNo662AL._AC_UL960_QL65_.jpg",
         "originalPrice": 1495.0,
-        "salePrice": 957.0,
-        "discount": 35,
+        "salePrice": 1249.0,
+        "discount": 16,
         "rating": 4.2,
-        "ratings": 57023,
+        "ratings": 57043,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1783996693544
+        "addedAt": 1784016529920
     },
     {
         "id": 35,
