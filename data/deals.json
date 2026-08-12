@@ -21,23 +21,23 @@
     },
     {
         "id": 2,
-        "title": "Samsung Galaxy F36 5G (Red, 128 GB) (6 GB RAM)",
+        "title": "Samsung Galaxy M35 5G (128GB)",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Mobiles",
         "catKey": "mobiles",
-        "img": "https://m.media-amazon.com/images/I/51IYdSXRZQL._AC_UY654_QL65_.jpg",
-        "originalPrice": 22999.0,
-        "salePrice": 19905.0,
-        "discount": 13,
-        "rating": 3.6,
-        "ratings": 158,
+        "img": "samsung-m35-5g",
+        "originalPrice": 19999,
+        "salePrice": 13499,
+        "discount": 33,
+        "rating": 4.2,
+        "ratings": 18740,
         "badges": [
-            "Live Price",
-            "Verified"
+            "SBI 10% off",
+            "COD"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1786500233064
+        "addedAt": 1775827762390
     },
     {
         "id": 3,
@@ -326,13 +326,13 @@
         "salePrice": 16989.0,
         "discount": 43,
         "rating": 3.9,
-        "ratings": 5724,
+        "ratings": 5725,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1786500234962
+        "addedAt": 1786519588016
     },
     {
         "id": 14,
@@ -450,7 +450,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1786500237861
+        "addedAt": 1786519589661
     },
     {
         "id": 47,
@@ -474,23 +474,23 @@
     },
     {
         "id": 49,
-        "title": "boAt Airdopes 141/8, Low Latency, ENx Tech, 42HRS Battery, Fast Charge, Stream Ad Free Music via App Support, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Bold Black)",
+        "title": "boAt Airdopes 141 Gen 2, 4 Mics ENx Tech, 48 Hrs Playback, Free Music Streaming, Fast Charge, Low Latency, IPX4, v5.4 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Active Black)",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Audio",
         "catKey": "audio",
-        "img": "https://m.media-amazon.com/images/I/71RFdy6y6LL._AC_UY654_QL65_.jpg",
-        "originalPrice": 4490.0,
-        "salePrice": 999.0,
-        "discount": 77,
+        "img": "https://m.media-amazon.com/images/I/71O+4zDSk-L._AC_UY654_QL65_.jpg",
+        "originalPrice": 3990.0,
+        "salePrice": 799.0,
+        "discount": 79,
         "rating": 3.9,
-        "ratings": 90586,
+        "ratings": 90588,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1786500240324
+        "addedAt": 1786519591190
     },
     {
         "id": 18,
@@ -821,7 +821,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1786500241885
+        "addedAt": 1786519592961
     },
     {
         "id": 48,
@@ -957,7 +957,7 @@
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1786500243647
+        "addedAt": 1786519594848
     },
     {
         "id": 35,
