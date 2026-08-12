@@ -21,23 +21,23 @@
     },
     {
         "id": 2,
-        "title": "Samsung Galaxy M35 5G (128GB)",
+        "title": "Samsung Galaxy F36 5G (Red, 128 GB) (6 GB RAM)",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Mobiles",
         "catKey": "mobiles",
-        "img": "samsung-m35-5g",
-        "originalPrice": 19999,
-        "salePrice": 13499,
-        "discount": 33,
-        "rating": 4.2,
-        "ratings": 18740,
+        "img": "https://m.media-amazon.com/images/I/51IYdSXRZQL._AC_UY654_QL65_.jpg",
+        "originalPrice": 22999.0,
+        "salePrice": 19905.0,
+        "discount": 13,
+        "rating": 3.6,
+        "ratings": 158,
         "badges": [
-            "SBI 10% off",
-            "COD"
+            "Live Price",
+            "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1775827762390
+        "addedAt": 1786500233064
     },
     {
         "id": 3,
@@ -332,7 +332,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1786474996066
+        "addedAt": 1786500234962
     },
     {
         "id": 14,
@@ -450,7 +450,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1786474997288
+        "addedAt": 1786500237861
     },
     {
         "id": 47,
@@ -490,7 +490,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1786474998507
+        "addedAt": 1786500240324
     },
     {
         "id": 18,
@@ -821,7 +821,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1786474999754
+        "addedAt": 1786500241885
     },
     {
         "id": 48,
@@ -957,7 +957,7 @@
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1786475001492
+        "addedAt": 1786500243647
     },
     {
         "id": 35,
