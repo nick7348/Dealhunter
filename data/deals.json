@@ -28,7 +28,7 @@
         "catKey": "mobiles",
         "img": "https://m.media-amazon.com/images/I/51IYdSXRZQL._AC_UY654_QL65_.jpg",
         "originalPrice": 26999.0,
-        "salePrice": 19869.0,
+        "salePrice": 19868.0,
         "discount": 26,
         "rating": 3.6,
         "ratings": 158,
@@ -37,7 +37,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1786540338665
+        "addedAt": 1786561379629
     },
     {
         "id": 3,
@@ -332,7 +332,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1786540339819
+        "addedAt": 1786561381372
     },
     {
         "id": 14,
@@ -441,16 +441,16 @@
         "catKey": "audio",
         "img": "https://m.media-amazon.com/images/I/61WRrNa6BIL._AC_UY654_QL65_.jpg",
         "originalPrice": 9999.0,
-        "salePrice": 3199.0,
-        "discount": 68,
+        "salePrice": 4199.0,
+        "discount": 58,
         "rating": 4.0,
-        "ratings": 3122,
+        "ratings": 3124,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1786540341136
+        "addedAt": 1786561383123
     },
     {
         "id": 47,
@@ -481,8 +481,8 @@
         "catKey": "audio",
         "img": "https://m.media-amazon.com/images/I/71RFdy6y6LL._AC_UY654_QL65_.jpg",
         "originalPrice": 4490.0,
-        "salePrice": 999.0,
-        "discount": 77,
+        "salePrice": 1118.88,
+        "discount": 75,
         "rating": 3.9,
         "ratings": 90604,
         "badges": [
@@ -490,7 +490,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1786540342723
+        "addedAt": 1786561384929
     },
     {
         "id": 18,
@@ -821,7 +821,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1786540344653
+        "addedAt": 1786561387138
     },
     {
         "id": 48,
@@ -951,13 +951,13 @@
         "salePrice": 899.0,
         "discount": 43,
         "rating": 4.2,
-        "ratings": 57302,
+        "ratings": 57303,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1786540346577
+        "addedAt": 1786561389248
     },
     {
         "id": 35,
