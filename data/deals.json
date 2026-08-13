@@ -21,23 +21,23 @@
     },
     {
         "id": 2,
-        "title": "Samsung Galaxy M35 5G (128GB)",
+        "title": "Samsung Galaxy F36 5G (Red, 128 GB) (6 GB RAM)",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Mobiles",
         "catKey": "mobiles",
-        "img": "samsung-m35-5g",
-        "originalPrice": 19999,
-        "salePrice": 13499,
-        "discount": 33,
-        "rating": 4.2,
-        "ratings": 18740,
+        "img": "https://m.media-amazon.com/images/I/51IYdSXRZQL._AC_UY654_QL65_.jpg",
+        "originalPrice": 26999.0,
+        "salePrice": 19865.0,
+        "discount": 26,
+        "rating": 3.6,
+        "ratings": 159,
         "badges": [
-            "SBI 10% off",
-            "COD"
+            "Live Price",
+            "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1775827762390
+        "addedAt": 1786626853154
     },
     {
         "id": 3,
@@ -326,13 +326,13 @@
         "salePrice": 16989.0,
         "discount": 43,
         "rating": 3.9,
-        "ratings": 5731,
+        "ratings": 5734,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1786606595698
+        "addedAt": 1786626855137
     },
     {
         "id": 14,
@@ -444,13 +444,13 @@
         "salePrice": 4199.0,
         "discount": 58,
         "rating": 4.0,
-        "ratings": 3129,
+        "ratings": 3143,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1786606597220
+        "addedAt": 1786626858328
     },
     {
         "id": 47,
@@ -484,13 +484,13 @@
         "salePrice": 999.0,
         "discount": 77,
         "rating": 3.9,
-        "ratings": 90609,
+        "ratings": 90627,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1786606598520
+        "addedAt": 1786626860346
     },
     {
         "id": 18,
@@ -821,7 +821,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1786606599792
+        "addedAt": 1786626861615
     },
     {
         "id": 48,
@@ -951,13 +951,13 @@
         "salePrice": 899.0,
         "discount": 43,
         "rating": 4.2,
-        "ratings": 57302,
+        "ratings": 57313,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1786606602013
+        "addedAt": 1786626864625
     },
     {
         "id": 35,
