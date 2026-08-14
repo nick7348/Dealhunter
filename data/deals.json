@@ -21,23 +21,23 @@
     },
     {
         "id": 2,
-        "title": "Samsung Galaxy M36 5G Mobile (Velvet Black, 6GB RAM, 128GB Storage) | Google Gemini| Gorilla Glass Victus+ | 7.7mm | AI Enhanced 50MP OIS Triple Camera| Nightography| Lag-free Gaming | Without Charger",
+        "title": "Samsung Galaxy F36 5G (Red, 128 GB) (6 GB RAM)",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Mobiles",
         "catKey": "mobiles",
-        "img": "https://m.media-amazon.com/images/I/71M0xLXh+4L._AC_UY654_QL65_.jpg",
-        "originalPrice": 25499.0,
-        "salePrice": 19999.0,
-        "discount": 21,
-        "rating": 4.1,
-        "ratings": 3210,
+        "img": "https://m.media-amazon.com/images/I/51IYdSXRZQL._AC_UY654_QL65_.jpg",
+        "originalPrice": 26999.0,
+        "salePrice": 19865.0,
+        "discount": 26,
+        "rating": 3.6,
+        "ratings": 160,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1786647825386
+        "addedAt": 1786673021958
     },
     {
         "id": 3,
@@ -326,13 +326,13 @@
         "salePrice": 16989.0,
         "discount": 43,
         "rating": 3.9,
-        "ratings": 5734,
+        "ratings": 5714,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1786647826940
+        "addedAt": 1786673023798
     },
     {
         "id": 14,
@@ -450,7 +450,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1786647828596
+        "addedAt": 1786673025295
     },
     {
         "id": 47,
@@ -484,13 +484,13 @@
         "salePrice": 999.0,
         "discount": 77,
         "rating": 3.9,
-        "ratings": 90626,
+        "ratings": 90625,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1786647830029
+        "addedAt": 1786673026970
     },
     {
         "id": 18,
@@ -821,7 +821,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1786647832025
+        "addedAt": 1786673028510
     },
     {
         "id": 48,
@@ -951,13 +951,13 @@
         "salePrice": 899.0,
         "discount": 43,
         "rating": 4.2,
-        "ratings": 57312,
+        "ratings": 57309,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1786647833883
+        "addedAt": 1786673030516
     },
     {
         "id": 35,
