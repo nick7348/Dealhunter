@@ -21,23 +21,23 @@
     },
     {
         "id": 2,
-        "title": "Samsung Galaxy M35 5G (128GB)",
+        "title": "Samsung Galaxy M17 5G Mobile (Sapphire Black, 6GB RAM, 128GB Storage) | 50MP OIS Triple Camera | Super AMOLED Display | Gorilla Glass Victus | 6 Gen OS Upgrades | Knox Security | AI",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Mobiles",
         "catKey": "mobiles",
-        "img": "samsung-m35-5g",
-        "originalPrice": 19999,
-        "salePrice": 13499,
-        "discount": 33,
-        "rating": 4.2,
-        "ratings": 18740,
+        "img": "https://m.media-amazon.com/images/I/71MxWZJHrWL._AC_UY654_FMwebp_QL65_.jpg",
+        "originalPrice": 23999.0,
+        "salePrice": 22999.0,
+        "discount": 4,
+        "rating": 4.1,
+        "ratings": 864,
         "badges": [
-            "SBI 10% off",
-            "COD"
+            "Live Price",
+            "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1775827762390
+        "addedAt": 1792098132420
     },
     {
         "id": 3,
@@ -316,23 +316,23 @@
     },
     {
         "id": 13,
-        "title": "Sony WF-1000XM5 Earbuds",
+        "title": "Sony WF-1000XM5 Best Active Noise Cancelling Wireless Bluetooth Earbuds with Mic, TWS, Up to 24 Hours Battery Life - Black",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Audio",
         "catKey": "audio",
-        "img": "sony-wf1000xm5",
-        "originalPrice": 29990,
-        "salePrice": 14990,
-        "discount": 50,
-        "rating": 4.7,
-        "ratings": 8234,
+        "img": "https://m.media-amazon.com/images/I/61GJAFdM9pL._AC_UY654_FMwebp_QL65_.jpg",
+        "originalPrice": 29990.0,
+        "salePrice": 13989.0,
+        "discount": 53,
+        "rating": 3.9,
+        "ratings": 4626,
         "badges": [
-            "COD",
-            "Limited time"
+            "Live Price",
+            "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1775627862390
+        "addedAt": 1792098134739
     },
     {
         "id": 14,
@@ -444,13 +444,13 @@
         "salePrice": 3199.0,
         "discount": 68,
         "rating": 4.1,
-        "ratings": 3805,
+        "ratings": 3807,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1792081811442
+        "addedAt": 1792098136842
     },
     {
         "id": 47,
@@ -484,13 +484,13 @@
         "salePrice": 766.0,
         "discount": 80,
         "rating": 3.8,
-        "ratings": 91388,
+        "ratings": 91389,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1792081813849
+        "addedAt": 1792098138954
     },
     {
         "id": 18,
@@ -821,7 +821,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1792081816198
+        "addedAt": 1792098141054
     },
     {
         "id": 48,
@@ -957,7 +957,7 @@
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1792081819350
+        "addedAt": 1792098144157
     },
     {
         "id": 35,
