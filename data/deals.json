@@ -316,23 +316,23 @@
     },
     {
         "id": 13,
-        "title": "Sony WF-1000XM5 Best Active Noise Cancelling Wireless Bluetooth Earbuds with Mic, TWS, Up to 24 Hours Battery Life - Black",
+        "title": "Sony WF-1000XM5 Earbuds",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Audio",
         "catKey": "audio",
-        "img": "https://m.media-amazon.com/images/I/61GJAFdM9pL._AC_UY654_FMwebp_QL65_.jpg",
-        "originalPrice": 29990.0,
-        "salePrice": 13989.0,
-        "discount": 53,
-        "rating": 3.9,
-        "ratings": 4627,
+        "img": "sony-wf1000xm5",
+        "originalPrice": 29990,
+        "salePrice": 14990,
+        "discount": 50,
+        "rating": 4.7,
+        "ratings": 8234,
         "badges": [
-            "Live Price",
-            "Verified"
+            "COD",
+            "Limited time"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1792167327605
+        "addedAt": 1775627862390
     },
     {
         "id": 14,
@@ -434,23 +434,22 @@
     },
     {
         "id": 39,
-        "title": "Samsung Galaxy Buds Core (Black) Galaxy AI Enabled in-Ear TWS with ANC | Enriched Bass | 6 Mic Setup | IP54 | 35hrs Battery | Touch Controls",
+        "title": "Samsung Galaxy Buds FE",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Audio",
         "catKey": "audio",
-        "img": "https://m.media-amazon.com/images/I/61WRrNa6BIL._AC_UY654_FMwebp_QL65_.jpg",
-        "originalPrice": 9999.0,
-        "salePrice": 3199.0,
-        "discount": 68,
-        "rating": 4.1,
-        "ratings": 3820,
+        "img": "samsung-buds-fe",
+        "originalPrice": 9999,
+        "salePrice": 3999,
+        "discount": 60,
+        "rating": 4.3,
+        "ratings": 21000,
         "badges": [
-            "Live Price",
-            "Verified"
+            "SBI 10% off"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1792167330078
+        "addedAt": 1775567862390
     },
     {
         "id": 47,
@@ -474,23 +473,23 @@
     },
     {
         "id": 49,
-        "title": "boAt Airdopes 141 Gen 2, 4 Mics ENx Tech, 48 Hrs Playback, Fast Charge, Low Latency, IPX4, v5.4 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Active Black)",
+        "title": "boAt Airdopes 141 TWS Earbuds",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Audio",
         "catKey": "audio",
-        "img": "https://m.media-amazon.com/images/I/61WptHqJiUL._AC_UY654_FMwebp_QL65_.jpg",
-        "originalPrice": 3990.0,
-        "salePrice": 766.0,
-        "discount": 80,
-        "rating": 3.8,
-        "ratings": 91434,
+        "img": "boat-airdopes-141",
+        "originalPrice": 4490,
+        "salePrice": 1099,
+        "discount": 76,
+        "rating": 4.1,
+        "ratings": 345000,
         "badges": [
-            "Live Price",
-            "Verified"
+            "COD",
+            "Best seller"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1792167333172
+        "addedAt": 1775547862390
     },
     {
         "id": 18,
