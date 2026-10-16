@@ -326,13 +326,13 @@
         "salePrice": 13989.0,
         "discount": 53,
         "rating": 3.9,
-        "ratings": 4626,
+        "ratings": 4627,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1792148155482
+        "addedAt": 1792167327605
     },
     {
         "id": 14,
@@ -444,13 +444,13 @@
         "salePrice": 3199.0,
         "discount": 68,
         "rating": 4.1,
-        "ratings": 3814,
+        "ratings": 3820,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1792148157906
+        "addedAt": 1792167330078
     },
     {
         "id": 47,
@@ -484,13 +484,13 @@
         "salePrice": 766.0,
         "discount": 80,
         "rating": 3.8,
-        "ratings": 91418,
+        "ratings": 91434,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1792148160416
+        "addedAt": 1792167333172
     },
     {
         "id": 18,
@@ -805,23 +805,22 @@
     },
     {
         "id": 38,
-        "title": "Logitech M331 Silent Plus Wireless Mouse, 2.4GHz with USB Nano Receiver, 1000 DPI Optical Tracking, 3 Buttons, 24 Month Battery Life, PC/Mac/Laptop - Black",
+        "title": "Logitech M331 Silent Wireless Mouse",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Appliances",
         "catKey": "appliances",
-        "img": "https://m.media-amazon.com/images/I/61qm452yy-L._AC_UY654_FMwebp_QL65_.jpg",
-        "originalPrice": 1645.0,
-        "salePrice": 1230.0,
-        "discount": 25,
+        "img": "logitech-m331-silent",
+        "originalPrice": 1495,
+        "salePrice": 695,
+        "discount": 54,
         "rating": 4.4,
-        "ratings": 15449,
+        "ratings": 67000,
         "badges": [
-            "Live Price",
-            "Verified"
+            "Free delivery"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1792148162973
+        "addedAt": 1775377862390
     },
     {
         "id": 48,
@@ -941,23 +940,23 @@
     },
     {
         "id": 34,
-        "title": "PHILIPS India's No.1 Hair Styling Brand Selfie Hair Straightener, Minimized Heat Damage,SilkPro Care, Ceramic Plates,Smooth Shiny Straight Hair, 210°C Temp, Salon like Result | For Indian Hair, HP8302",
+        "title": "Philips Hair Straightener (HP8302)",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Beauty",
         "catKey": "beauty",
-        "img": "https://m.media-amazon.com/images/I/51KpNo662AL._AC_UL960_FMwebp_QL65_.jpg",
-        "originalPrice": 1495.0,
-        "salePrice": 875.0,
-        "discount": 41,
-        "rating": 4.2,
-        "ratings": 57915,
+        "img": "philips-straightener",
+        "originalPrice": 2795,
+        "salePrice": 1395,
+        "discount": 50,
+        "rating": 4.3,
+        "ratings": 34000,
         "badges": [
-            "Live Price",
-            "Verified"
+            "COD",
+            "Free delivery"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1792148165510
+        "addedAt": 1775307862390
     },
     {
         "id": 35,
