@@ -21,23 +21,23 @@
     },
     {
         "id": 2,
-        "title": "Samsung Galaxy M36 5G Mobile (Velvet Black, 6GB RAM, 128GB Storage) | Google Gemini| Gorilla Glass Victus+ | 7.7mm | AI Enhanced 50MP OIS Triple Camera| Nightography| Lag-free Gaming | Without Charger",
+        "title": "Samsung Galaxy F70e 5G (Spotlight Blue, 128 GB) (4 GB RAM) | 6000 mAh Battery | 6.74\" PLS LCD Display | Dimensity 6300 | Octa Core Processor |",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Mobiles",
         "catKey": "mobiles",
-        "img": "https://m.media-amazon.com/images/I/71M0xLXh+4L._AC_UY654_FMwebp_QL65_.jpg",
-        "originalPrice": 25499.0,
-        "salePrice": 22999.0,
-        "discount": 9,
-        "rating": 4.1,
-        "ratings": 3905,
+        "img": "https://m.media-amazon.com/images/I/81h7H0YyfLL._AC_UY654_FMwebp_QL65_.jpg",
+        "originalPrice": 22999.0,
+        "salePrice": 16165.0,
+        "discount": 29,
+        "rating": 3.6,
+        "ratings": 299,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1794494853718
+        "addedAt": 1794525436707
     },
     {
         "id": 3,
@@ -444,13 +444,13 @@
         "salePrice": 3399.0,
         "discount": 66,
         "rating": 4.0,
-        "ratings": 4042,
+        "ratings": 4043,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1794494858002
+        "addedAt": 1794525440814
     },
     {
         "id": 47,
@@ -490,7 +490,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1794494860095
+        "addedAt": 1794525443316
     },
     {
         "id": 18,
@@ -821,7 +821,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1794494862332
+        "addedAt": 1794525445249
     },
     {
         "id": 48,
@@ -948,16 +948,16 @@
         "catKey": "beauty",
         "img": "https://m.media-amazon.com/images/I/51KpNo662AL._AC_UL960_FMwebp_QL65_.jpg",
         "originalPrice": 1495.0,
-        "salePrice": 827.0,
+        "salePrice": 828.0,
         "discount": 44,
         "rating": 4.2,
-        "ratings": 58210,
+        "ratings": 58211,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1794494864984
+        "addedAt": 1794525447976
     },
     {
         "id": 35,
