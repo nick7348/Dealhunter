@@ -28,8 +28,8 @@
         "catKey": "mobiles",
         "img": "https://m.media-amazon.com/images/I/81h7H0YyfLL._AC_UY654_FMwebp_QL65_.jpg",
         "originalPrice": 18999.0,
-        "salePrice": 16160.0,
-        "discount": 14,
+        "salePrice": 16149.0,
+        "discount": 15,
         "rating": 3.6,
         "ratings": 299,
         "badges": [
@@ -37,7 +37,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1794548109522
+        "addedAt": 1794578761637
     },
     {
         "id": 3,
@@ -450,7 +450,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1794548115051
+        "addedAt": 1794578765023
     },
     {
         "id": 47,
@@ -484,13 +484,13 @@
         "salePrice": 1099.0,
         "discount": 72,
         "rating": 3.9,
-        "ratings": 92010,
+        "ratings": 92013,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1794548117168
+        "addedAt": 1794578766777
     },
     {
         "id": 18,
@@ -815,13 +815,13 @@
         "salePrice": 1295.0,
         "discount": 21,
         "rating": 4.4,
-        "ratings": 15477,
+        "ratings": 15478,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1794548128816
+        "addedAt": 1794578768620
     },
     {
         "id": 48,
@@ -957,7 +957,7 @@
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1794548133592
+        "addedAt": 1794578772628
     },
     {
         "id": 35,
