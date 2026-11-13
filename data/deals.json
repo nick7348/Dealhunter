@@ -27,9 +27,9 @@
         "category": "Mobiles",
         "catKey": "mobiles",
         "img": "https://m.media-amazon.com/images/I/81h7H0YyfLL._AC_UY654_FMwebp_QL65_.jpg",
-        "originalPrice": 22999.0,
-        "salePrice": 16165.0,
-        "discount": 29,
+        "originalPrice": 18999.0,
+        "salePrice": 16160.0,
+        "discount": 14,
         "rating": 3.6,
         "ratings": 299,
         "badges": [
@@ -37,7 +37,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1794525436707
+        "addedAt": 1794548109522
     },
     {
         "id": 3,
@@ -450,7 +450,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1794525440814
+        "addedAt": 1794548115051
     },
     {
         "id": 47,
@@ -484,13 +484,13 @@
         "salePrice": 1099.0,
         "discount": 72,
         "rating": 3.9,
-        "ratings": 92009,
+        "ratings": 92010,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1794525443316
+        "addedAt": 1794548117168
     },
     {
         "id": 18,
@@ -821,7 +821,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1794525445249
+        "addedAt": 1794548128816
     },
     {
         "id": 48,
@@ -951,13 +951,13 @@
         "salePrice": 828.0,
         "discount": 44,
         "rating": 4.2,
-        "ratings": 58211,
+        "ratings": 58213,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1794525447976
+        "addedAt": 1794548133592
     },
     {
         "id": 35,
