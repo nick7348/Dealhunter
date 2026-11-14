@@ -316,23 +316,23 @@
     },
     {
         "id": 13,
-        "title": "Sony WF-1000XM5 Best Active Noise Cancelling Wireless Bluetooth Earbuds with Mic, TWS, Up to 24 Hours Battery Life - Black",
+        "title": "Sony WF-1000XM5 Earbuds",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Audio",
         "catKey": "audio",
-        "img": "https://m.media-amazon.com/images/I/61GJAFdM9pL._AC_UY654_FMwebp_QL65_.jpg",
-        "originalPrice": 29990.0,
-        "salePrice": 13989.0,
-        "discount": 53,
-        "rating": 3.9,
-        "ratings": 4672,
+        "img": "sony-wf1000xm5",
+        "originalPrice": 29990,
+        "salePrice": 14990,
+        "discount": 50,
+        "rating": 4.7,
+        "ratings": 8234,
         "badges": [
-            "Live Price",
-            "Verified"
+            "COD",
+            "Limited time"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1794612022352
+        "addedAt": 1775627862390
     },
     {
         "id": 14,
@@ -444,13 +444,13 @@
         "salePrice": 3399.0,
         "discount": 66,
         "rating": 4.0,
-        "ratings": 4054,
+        "ratings": 4055,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1794612024688
+        "addedAt": 1794633965520
     },
     {
         "id": 47,
@@ -474,23 +474,23 @@
     },
     {
         "id": 49,
-        "title": "boAt Airdopes 141 TWS Earbuds",
+        "title": "boAt Airdopes 141/8, Low Latency, ENx Tech, 42HRS Battery, Fast Charge, Stream Ad Free Music via App Support, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Bold Black)",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Audio",
         "catKey": "audio",
-        "img": "boat-airdopes-141",
-        "originalPrice": 4490,
-        "salePrice": 1099,
-        "discount": 76,
-        "rating": 4.1,
-        "ratings": 345000,
+        "img": "https://m.media-amazon.com/images/I/71RFdy6y6LL._AC_UY654_FMwebp_QL65_.jpg",
+        "originalPrice": 4490.0,
+        "salePrice": 1399.0,
+        "discount": 68,
+        "rating": 3.9,
+        "ratings": 92030,
         "badges": [
-            "COD",
-            "Best seller"
+            "Live Price",
+            "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1775547862390
+        "addedAt": 1794633967480
     },
     {
         "id": 18,
@@ -815,13 +815,13 @@
         "salePrice": 1295.0,
         "discount": 21,
         "rating": 4.4,
-        "ratings": 15481,
+        "ratings": 15482,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1794612028670
+        "addedAt": 1794633969355
     },
     {
         "id": 48,
@@ -948,8 +948,8 @@
         "catKey": "beauty",
         "img": "https://m.media-amazon.com/images/I/51KpNo662AL._AC_UL960_FMwebp_QL65_.jpg",
         "originalPrice": 1495.0,
-        "salePrice": 1169.0,
-        "discount": 21,
+        "salePrice": 1064.0,
+        "discount": 28,
         "rating": 4.2,
         "ratings": 58226,
         "badges": [
@@ -957,7 +957,7 @@
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1794612031368
+        "addedAt": 1794633971469
     },
     {
         "id": 35,
