@@ -21,23 +21,23 @@
     },
     {
         "id": 2,
-        "title": "Samsung Galaxy M36 5G Mobile (Velvet Black, 8GB RAM, 128GB Storage) | Google Gemini| Gorilla Glass Victus+ | 7.7mm | AI Enhanced 50MP OIS Triple Camera| Nightography| Lag-free Gaming | Without Charger",
+        "title": "Samsung Galaxy F70e 5G (Spotlight Blue, 128 GB) (4 GB RAM) | 6000 mAh Battery | 6.74\" PLS LCD Display | Dimensity 6300 | Octa Core Processor |",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Mobiles",
         "catKey": "mobiles",
-        "img": "https://m.media-amazon.com/images/I/71M0xLXh+4L._AC_UY654_FMwebp_QL65_.jpg",
-        "originalPrice": 26999.0,
-        "salePrice": 23999.0,
-        "discount": 11,
-        "rating": 4.1,
-        "ratings": 2461,
+        "img": "https://m.media-amazon.com/images/I/81h7H0YyfLL._AC_UY654_FMwebp_QL65_.jpg",
+        "originalPrice": 22999.0,
+        "salePrice": 15999.9,
+        "discount": 30,
+        "rating": 3.6,
+        "ratings": 309,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1794749830329
+        "addedAt": 1794782071993
     },
     {
         "id": 3,
@@ -316,23 +316,23 @@
     },
     {
         "id": 13,
-        "title": "Sony WF-1000XM5 Earbuds",
+        "title": "Sony WF-1000XM5 Best Active Noise Cancelling Wireless Bluetooth Earbuds with Mic, TWS, Up to 24 Hours Battery Life - Black",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Audio",
         "catKey": "audio",
-        "img": "sony-wf1000xm5",
-        "originalPrice": 29990,
-        "salePrice": 14990,
-        "discount": 50,
-        "rating": 4.7,
-        "ratings": 8234,
+        "img": "https://m.media-amazon.com/images/I/61GJAFdM9pL._AC_UY654_FMwebp_QL65_.jpg",
+        "originalPrice": 29990.0,
+        "salePrice": 16990.0,
+        "discount": 43,
+        "rating": 3.9,
+        "ratings": 4676,
         "badges": [
-            "COD",
-            "Limited time"
+            "Live Price",
+            "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1775627862390
+        "addedAt": 1794782074249
     },
     {
         "id": 14,
@@ -444,13 +444,13 @@
         "salePrice": 3399.0,
         "discount": 66,
         "rating": 4.0,
-        "ratings": 4060,
+        "ratings": 4099,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1794749834040
+        "addedAt": 1794782076593
     },
     {
         "id": 47,
@@ -474,23 +474,23 @@
     },
     {
         "id": 49,
-        "title": "boAt Airdopes 141/8, Low Latency, ENx Tech, 42HRS Battery, Fast Charge, Stream Ad Free Music via App Support, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Bold Black)",
+        "title": "boAt Airdopes 141 Gen 2, 4 Mics ENx Tech, 48 Hrs Playback, Fast Charge, Low Latency, IPX4, v5.4 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Active Black)",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Audio",
         "catKey": "audio",
-        "img": "https://m.media-amazon.com/images/I/71RFdy6y6LL._AC_UY654_FMwebp_QL65_.jpg",
-        "originalPrice": 4490.0,
-        "salePrice": 1399.0,
-        "discount": 68,
+        "img": "https://m.media-amazon.com/images/I/61WptHqJiUL._AC_UY654_FMwebp_QL65_.jpg",
+        "originalPrice": 3990.0,
+        "salePrice": 999.0,
+        "discount": 74,
         "rating": 3.9,
-        "ratings": 92032,
+        "ratings": 92066,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1794749836085
+        "addedAt": 1794782079155
     },
     {
         "id": 18,
@@ -815,13 +815,13 @@
         "salePrice": 1295.0,
         "discount": 21,
         "rating": 4.4,
-        "ratings": 15481,
+        "ratings": 15483,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1794749837788
+        "addedAt": 1794782081419
     },
     {
         "id": 48,
@@ -951,13 +951,13 @@
         "salePrice": 1064.0,
         "discount": 28,
         "rating": 4.2,
-        "ratings": 58230,
+        "ratings": 58268,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1794749840349
+        "addedAt": 1794782083928
     },
     {
         "id": 35,
