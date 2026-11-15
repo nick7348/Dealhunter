@@ -37,7 +37,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1794693827022
+        "addedAt": 1794720213506
     },
     {
         "id": 3,
@@ -316,23 +316,23 @@
     },
     {
         "id": 13,
-        "title": "Sony WF-1000XM5 Best Active Noise Cancelling Wireless Bluetooth Earbuds with Mic, TWS, Up to 24 Hours Battery Life - Black",
+        "title": "Sony WF-1000XM5 Earbuds",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Audio",
         "catKey": "audio",
-        "img": "https://m.media-amazon.com/images/I/61GJAFdM9pL._AC_UY654_FMwebp_QL65_.jpg",
-        "originalPrice": 29990.0,
-        "salePrice": 13989.0,
-        "discount": 53,
-        "rating": 3.9,
-        "ratings": 4673,
+        "img": "sony-wf1000xm5",
+        "originalPrice": 29990,
+        "salePrice": 14990,
+        "discount": 50,
+        "rating": 4.7,
+        "ratings": 8234,
         "badges": [
-            "Live Price",
-            "Verified"
+            "COD",
+            "Limited time"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1794693829635
+        "addedAt": 1775627862390
     },
     {
         "id": 14,
@@ -444,13 +444,13 @@
         "salePrice": 3399.0,
         "discount": 66,
         "rating": 4.0,
-        "ratings": 4057,
+        "ratings": 4059,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1794693831819
+        "addedAt": 1794720217464
     },
     {
         "id": 47,
@@ -474,23 +474,23 @@
     },
     {
         "id": 49,
-        "title": "boAt 2026 Launch Airdopes 141, Up to 50 Hours Playtime, Quad Mic ENx™ Tech, Dual EQ Modes, 13mm Drivers, BEAST™ Mode, ASAP™ Charge, IWP™ Technology, BT v5.3, IPX4 Resistant TWS Earbuds(Matte Charcoal)",
+        "title": "boAt Airdopes 141/8, Low Latency, ENx Tech, 42HRS Battery, Fast Charge, Stream Ad Free Music via App Support, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Bold Black)",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Audio",
         "catKey": "audio",
-        "img": "https://m.media-amazon.com/images/I/61+pMdr6lOL._AC_UY654_FMwebp_QL65_.jpg",
-        "originalPrice": 3999.0,
-        "salePrice": 1199.0,
-        "discount": 70,
+        "img": "https://m.media-amazon.com/images/I/71RFdy6y6LL._AC_UY654_FMwebp_QL65_.jpg",
+        "originalPrice": 4490.0,
+        "salePrice": 1399.0,
+        "discount": 68,
         "rating": 3.9,
-        "ratings": 26038,
+        "ratings": 92031,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1794693834182
+        "addedAt": 1794720219188
     },
     {
         "id": 18,
@@ -815,13 +815,13 @@
         "salePrice": 1295.0,
         "discount": 21,
         "rating": 4.4,
-        "ratings": 15482,
+        "ratings": 15481,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1794693836215
+        "addedAt": 1794720220907
     },
     {
         "id": 48,
@@ -957,7 +957,7 @@
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1794693838387
+        "addedAt": 1794720222870
     },
     {
         "id": 35,
