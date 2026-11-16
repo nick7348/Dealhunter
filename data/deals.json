@@ -21,23 +21,23 @@
     },
     {
         "id": 2,
-        "title": "Samsung Galaxy F70e 5G (Spotlight Blue, 128 GB) (4 GB RAM) | 6000 mAh Battery | 6.74\" PLS LCD Display | Dimensity 6300 | Octa Core Processor |",
+        "title": "Samsung Galaxy M35 5G (128GB)",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Mobiles",
         "catKey": "mobiles",
-        "img": "https://m.media-amazon.com/images/I/81h7H0YyfLL._AC_UY654_FMwebp_QL65_.jpg",
-        "originalPrice": 22999.0,
-        "salePrice": 15999.9,
-        "discount": 30,
-        "rating": 3.6,
-        "ratings": 309,
+        "img": "samsung-m35-5g",
+        "originalPrice": 19999,
+        "salePrice": 13499,
+        "discount": 33,
+        "rating": 4.2,
+        "ratings": 18740,
         "badges": [
-            "Live Price",
-            "Verified"
+            "SBI 10% off",
+            "COD"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1794782071993
+        "addedAt": 1775827762390
     },
     {
         "id": 3,
@@ -332,7 +332,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1794782074249
+        "addedAt": 1794806478706
     },
     {
         "id": 14,
@@ -450,7 +450,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1794782076593
+        "addedAt": 1794806480634
     },
     {
         "id": 47,
@@ -484,13 +484,13 @@
         "salePrice": 999.0,
         "discount": 74,
         "rating": 3.9,
-        "ratings": 92066,
+        "ratings": 92068,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1794782079155
+        "addedAt": 1794806482394
     },
     {
         "id": 18,
@@ -821,7 +821,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1794782081419
+        "addedAt": 1794806484234
     },
     {
         "id": 48,
@@ -951,13 +951,13 @@
         "salePrice": 1064.0,
         "discount": 28,
         "rating": 4.2,
-        "ratings": 58268,
+        "ratings": 58267,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1794782083928
+        "addedAt": 1794806486260
     },
     {
         "id": 35,
