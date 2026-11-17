@@ -28,16 +28,16 @@
         "catKey": "mobiles",
         "img": "https://m.media-amazon.com/images/I/81h7H0YyfLL._AC_UY654_FMwebp_QL65_.jpg",
         "originalPrice": 22999.0,
-        "salePrice": 16049.0,
+        "salePrice": 16040.0,
         "discount": 30,
         "rating": 3.6,
-        "ratings": 314,
+        "ratings": 315,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1794879718824
+        "addedAt": 1794929929058
     },
     {
         "id": 3,
@@ -332,7 +332,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1794879723283
+        "addedAt": 1794929930987
     },
     {
         "id": 14,
@@ -444,13 +444,13 @@
         "salePrice": 3399.0,
         "discount": 66,
         "rating": 4.0,
-        "ratings": 4119,
+        "ratings": 4120,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1794879730302
+        "addedAt": 1794929934363
     },
     {
         "id": 47,
@@ -484,13 +484,13 @@
         "salePrice": 1399.0,
         "discount": 68,
         "rating": 3.9,
-        "ratings": 92084,
+        "ratings": 92085,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1794879733987
+        "addedAt": 1794929937900
     },
     {
         "id": 18,
@@ -821,7 +821,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1794879737545
+        "addedAt": 1794929940091
     },
     {
         "id": 48,
@@ -948,8 +948,8 @@
         "catKey": "beauty",
         "img": "https://m.media-amazon.com/images/I/51KpNo662AL._AC_UL960_FMwebp_QL65_.jpg",
         "originalPrice": 1495.0,
-        "salePrice": 1064.0,
-        "discount": 28,
+        "salePrice": 1275.0,
+        "discount": 14,
         "rating": 4.2,
         "ratings": 58280,
         "badges": [
@@ -957,7 +957,7 @@
             "Verified"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1794879742119
+        "addedAt": 1794929942746
     },
     {
         "id": 35,
