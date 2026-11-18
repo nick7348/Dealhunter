@@ -31,13 +31,13 @@
         "salePrice": 16040.0,
         "discount": 30,
         "rating": 3.6,
-        "ratings": 315,
+        "ratings": 317,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4cdMu64",
-        "addedAt": 1794929929058
+        "addedAt": 1794962447119
     },
     {
         "id": 3,
@@ -332,7 +332,7 @@
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4sYi1jw",
-        "addedAt": 1794929930987
+        "addedAt": 1794962449969
     },
     {
         "id": 14,
@@ -444,13 +444,13 @@
         "salePrice": 3399.0,
         "discount": 66,
         "rating": 4.0,
-        "ratings": 4120,
+        "ratings": 4135,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/4dCn7NC",
-        "addedAt": 1794929934363
+        "addedAt": 1794962452347
     },
     {
         "id": 47,
@@ -474,23 +474,23 @@
     },
     {
         "id": 49,
-        "title": "boAt Airdopes 141/8, Low Latency, ENx Tech, 42HRS Battery, Fast Charge, Stream Ad Free Music via App Support, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Bold Black)",
+        "title": "boAt 2026 Launch Airdopes 141, Up to 50 Hours Playtime, Quad Mic ENx™ Tech, Dual EQ Modes, 13mm Drivers, BEAST™ Mode, ASAP™ Charge, IWP™ Technology, BT v5.3, IPX4 Resistant TWS Earbuds(Matte Charcoal)",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Audio",
         "catKey": "audio",
-        "img": "https://m.media-amazon.com/images/I/71RFdy6y6LL._AC_UY654_FMwebp_QL65_.jpg",
-        "originalPrice": 4490.0,
-        "salePrice": 1399.0,
-        "discount": 68,
+        "img": "https://m.media-amazon.com/images/I/61+pMdr6lOL._AC_UY654_FMwebp_QL65_.jpg",
+        "originalPrice": 3999.0,
+        "salePrice": 1199.0,
+        "discount": 70,
         "rating": 3.9,
-        "ratings": 92085,
+        "ratings": 26046,
         "badges": [
             "Live Price",
             "Verified"
         ],
         "affiliateLink": "https://amzn.to/3Q2KcPM",
-        "addedAt": 1794929937900
+        "addedAt": 1794962454340
     },
     {
         "id": 18,
@@ -805,23 +805,22 @@
     },
     {
         "id": 38,
-        "title": "Logitech M331 Silent Plus Wireless Mouse, 2.4GHz with USB Nano Receiver, 1000 DPI Optical Tracking, 3 Buttons, 24 Month Battery Life, PC/Mac/Laptop - Black",
+        "title": "Logitech M331 Silent Wireless Mouse",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Appliances",
         "catKey": "appliances",
-        "img": "https://m.media-amazon.com/images/I/61ejNxPGjFL._AC_UY654_FMwebp_QL65_.jpg",
-        "originalPrice": 1645.0,
-        "salePrice": 1295.0,
-        "discount": 21,
+        "img": "logitech-m331-silent",
+        "originalPrice": 1495,
+        "salePrice": 695,
+        "discount": 54,
         "rating": 4.4,
-        "ratings": 15484,
+        "ratings": 67000,
         "badges": [
-            "Live Price",
-            "Verified"
+            "Free delivery"
         ],
         "affiliateLink": "https://amzn.to/4coLKv7",
-        "addedAt": 1794929940091
+        "addedAt": 1775377862390
     },
     {
         "id": 48,
@@ -941,23 +940,23 @@
     },
     {
         "id": 34,
-        "title": "PHILIPS India's No.1 Hair Styling Brand Selfie Hair Straightener, Minimized Heat Damage,SilkPro Care, Ceramic Plates,Smooth Shiny Straight Hair, 210°C Temp, Salon like Result | For Indian Hair, HP8302",
+        "title": "Philips Hair Straightener (HP8302)",
         "store": "Amazon",
         "storeKey": "amazon",
         "category": "Beauty",
         "catKey": "beauty",
-        "img": "https://m.media-amazon.com/images/I/51KpNo662AL._AC_UL960_FMwebp_QL65_.jpg",
-        "originalPrice": 1495.0,
-        "salePrice": 1275.0,
-        "discount": 14,
-        "rating": 4.2,
-        "ratings": 58280,
+        "img": "philips-straightener",
+        "originalPrice": 2795,
+        "salePrice": 1395,
+        "discount": 50,
+        "rating": 4.3,
+        "ratings": 34000,
         "badges": [
-            "Live Price",
-            "Verified"
+            "COD",
+            "Free delivery"
         ],
         "affiliateLink": "https://www.amazon.in/s?k=philips+hair+straightener+hp8302&tag=dealhunte065d-21",
-        "addedAt": 1794929942746
+        "addedAt": 1775307862390
     },
     {
         "id": 35,
